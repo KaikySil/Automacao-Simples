@@ -26,7 +26,7 @@ def automacao(root):
         pyautogui.press("space")
         pyautogui.press("x")
 
-    pyautogui.write("Marcelo Prates")
+    pyautogui.write("Destinatário")
     time.sleep(0.3)
     pyautogui.press("enter")
     time.sleep(0.3)
